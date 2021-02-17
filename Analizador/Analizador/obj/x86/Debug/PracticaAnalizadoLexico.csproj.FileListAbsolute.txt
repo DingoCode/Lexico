@@ -1,0 +1,56 @@
+c:\users\digital\documents\visual studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\bin\Debug\PracticaAnalizadoLexico.exe
+c:\users\digital\documents\visual studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\bin\Debug\PracticaAnalizadoLexico.pdb
+c:\users\digital\documents\visual studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.FormAnalizador.resources
+c:\users\digital\documents\visual studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.Properties.Resources.resources
+c:\users\digital\documents\visual studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.csproj.GenerateResource.Cache
+c:\users\digital\documents\visual studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.exe
+c:\users\digital\documents\visual studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.pdb
+C:\Users\digital\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.csprojResolveAssemblyReference.cache
+C:\Users\digital\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\digital\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\digital\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\digital\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\digital\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.csproj.ResolveComReference.cache
+C:\Users\digital\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.formManual.resources
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.csproj.ResolveComReference.cache
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.exe
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.pdb
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\bin\Debug\PracticaAnalizadoLexico.exe
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\bin\Debug\PracticaAnalizadoLexico.pdb
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.formManual.resources
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.Properties.Resources.resources
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.csproj.GenerateResource.Cache
+C:\Users\Luis Enrique\UNIVERSIDAD\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.FormProyecto.resources
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.csproj.ResolveComReference.cache
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.exe
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.pdb
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\bin\Debug\PracticaAnalizadoLexico.exe
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\bin\Debug\PracticaAnalizadoLexico.pdb
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.FormProyecto.resources
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.Properties.Resources.resources
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\PracticaAnalizadoLexico\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.csproj.GenerateResource.Cache
+C:\Users\Luis Enrique\Desktop\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Luis Enrique\Desktop\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Luis Enrique\Desktop\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.csproj.ResolveComReference.cache
+C:\Users\Luis Enrique\Desktop\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.exe
+C:\Users\Luis Enrique\Desktop\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.pdb
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.csproj.ResolveComReference.cache
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.exe
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.pdb
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\ProyectoLenguajesFase1\PracticaAnalizadoLexico\bin\Debug\PracticaAnalizadoLexico.exe
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\ProyectoLenguajesFase1\PracticaAnalizadoLexico\bin\Debug\PracticaAnalizadoLexico.pdb
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\ProyectoLenguajesFase1\PracticaAnalizadoLexico\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\ProyectoLenguajesFase1\PracticaAnalizadoLexico\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\ProyectoLenguajesFase1.FormProyecto.resources
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\ProyectoLenguajesFase1.Properties.Resources.resources
+C:\Users\Luis Enrique\Documents\Visual Studio 2010\Projects\ProyectoLenguajesFase1\PracticaAnalizadoLexico\obj\x86\Debug\PracticaAnalizadoLexico.csproj.GenerateResource.Cache

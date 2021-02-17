@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\c#\ProyectoLenguajesFase1\ProyectoLenguajesFase1\bin\Debug\PracticaAnalizadoLexico.exe
+C:\Users\User\Desktop\c#\ProyectoLenguajesFase1\ProyectoLenguajesFase1\bin\Debug\PracticaAnalizadoLexico.pdb
+C:\Users\User\Desktop\c#\ProyectoLenguajesFase1\ProyectoLenguajesFase1\obj\x86\Debug\Analizador.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\ProyectoLenguajesFase1\ProyectoLenguajesFase1\obj\x86\Debug\Analizador.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\c#\ProyectoLenguajesFase1\ProyectoLenguajesFase1\obj\x86\Debug\ProyectoLenguajesFase1.FormProyecto.resources
+C:\Users\User\Desktop\c#\ProyectoLenguajesFase1\ProyectoLenguajesFase1\obj\x86\Debug\ProyectoLenguajesFase1.Properties.Resources.resources
+C:\Users\User\Desktop\c#\ProyectoLenguajesFase1\ProyectoLenguajesFase1\obj\x86\Debug\Analizador.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\ProyectoLenguajesFase1\ProyectoLenguajesFase1\obj\x86\Debug\Analizador.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\ProyectoLenguajesFase1\ProyectoLenguajesFase1\obj\x86\Debug\PracticaAnalizadoLexico.exe
+C:\Users\User\Desktop\c#\ProyectoLenguajesFase1\ProyectoLenguajesFase1\obj\x86\Debug\PracticaAnalizadoLexico.pdb
